@@ -1,7 +1,7 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date
-18 July 2021, readme file
+18 July 2021
 
 ### Project title
 Udacity Github repository project
@@ -11,6 +11,7 @@ This is a project, where I will create a Github repository and local repository.
 
 ### Files used
 chicago.csv, washington.csv, new_york_city.csv
+readme file
 
 ### Credits
 It's important to give proper credit. 
