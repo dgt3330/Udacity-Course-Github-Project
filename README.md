@@ -6,7 +6,7 @@ Include the date you created this project and README file.
 ### Udacity Github repository project
 Replace the Project Title
 
-### Description
+### This is a project, where I will create a Github repository and local repository. I will work on a repo for my bikeshare report, make multiple branches and make edits to files on those branches (e.g. a readme file, and python code), and commit changes to remove repository. 
 Describe what your project is about and what it does
 
 ### Files used
