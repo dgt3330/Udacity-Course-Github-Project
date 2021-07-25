@@ -14,8 +14,8 @@ Include the files used
 
 ### Credits
 It's important to give proper credit. 
-datacamp
-coursera
-udemy
-udacity
+1. datacamp
+2. coursera
+3. udemy
+4. udacity
 
